@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
-  "download_url": "https://github.com/HikashiVT/HKCore2/releases/latest/download/HKCore2.exe",
-  "notes": "Primera versión pública"
+  "version": "1.0.1",
+  "download": "https://github.com/HikashiVT/HKCore2/releases/latest/download/HKCore2.exe",
+  "notes": "Correcciones generales"
 }
